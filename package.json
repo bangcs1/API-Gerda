@@ -1,0 +1,19 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "Gerda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "DC-Nam",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "fs-extra": "^10.1.0",
+    "node-fetch": "^3.2.6"
+  }
+}
